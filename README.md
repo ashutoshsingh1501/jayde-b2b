@@ -1,2 +1,2 @@
-# jayde-b2b-ci
+# jayde-b2b
 Jayde B2B
